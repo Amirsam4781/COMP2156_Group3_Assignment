@@ -1,0 +1,4 @@
+#this file contains informatio about Career Devops
+# Some points for being a Software developer: Shorter development cycles that encourage innovation · 2. More collaboration, better communication · 3. Reduced deployment failures and faster time to recover.
+
+#this file has been comitted again to update data

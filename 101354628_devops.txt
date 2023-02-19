@@ -1,0 +1,4 @@
+#this file contains informatio about Devops course
+#DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
+
+#This file has been updated by Andre Ramirez commited twice
