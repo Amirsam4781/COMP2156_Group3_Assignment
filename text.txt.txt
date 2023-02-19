@@ -1,1 +1,2 @@
-hello
+#hello, this file is a Pilot for Devops Lab1 
+#This file needs to be update soon by Andre Ramirez
