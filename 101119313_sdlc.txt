@@ -1,0 +1,8 @@
+DevOps is important to learn because it helps in the cycle of development by reducing time,
+while also providing a faster and more convenient way for developers to make sure their 
+project is running properly.
+
+UPDATE:
+DevOps is additionally beneficial for communication around the team for a project. Every
+change and additions to the project can be seen by members of the team to ensure a smooth
+collaborative process.
