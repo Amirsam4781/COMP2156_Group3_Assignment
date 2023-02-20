@@ -1,0 +1,2 @@
+dev ops is continuous integration and continuous development course which helps
+programmers and developers to easily manage their code.
