@@ -1,1 +1,3 @@
 In the present market, it is very important to provide software continuously to the market and DevOps helps in achieving that.
+The concept of DevOps does not allow mistakes in the stage of methodology. When both the operations and development stages are done correctly with no errors then it 
+will result in the release of better and improved product qualities.
