@@ -1,2 +1,4 @@
 programmers and developers to easily mabothnage their code.
-The term combines the last parts of software development and technology operations, because DevOps is about eliminating silos and bringing development and operations activities together.
+The term combines the last parts of software development and technology operations, because DevOps is about eliminating silos
+ and bringing development and operations activities together.
+ DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
