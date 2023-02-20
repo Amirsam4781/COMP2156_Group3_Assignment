@@ -1,2 +1,3 @@
 dev ops is continuous integration and continuous development course which helps
 programmers and developers to easily mabothnage their code.
+The term combines the last parts of software development and technology operations, because DevOps is about eliminating silos and bringing development and operations activities together.
