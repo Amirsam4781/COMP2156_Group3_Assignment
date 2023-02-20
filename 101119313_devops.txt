@@ -1,0 +1,3 @@
+DevOps for System Administration (COMP2156) is a course designe to offer a practical
+understanding of development and deployment in real world scenarios. The use of GitHub,
+Jenkins, TravisCI are some of the components utilised in this course.
